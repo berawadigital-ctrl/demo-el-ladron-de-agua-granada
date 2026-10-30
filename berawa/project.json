@@ -1,0 +1,64 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-el-ladron-de-agua-granada",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-30T06:54:00+01:00",
+ "updated_at": "2026-10-30T07:05:00+01:00",
+ "business": {
+  "name": "El Ladrón de Agua",
+  "legal_name": "Poesía y Alegría",
+  "registry_ids": [
+   "NIF B18990176",
+   "RTA A/GR/00450"
+  ],
+  "url": "https://www.ladrondeagua.com/",
+  "domain": "ladrondeagua.com",
+  "municipality": "Granada",
+  "province": "Granada",
+  "address": "Carrera del Darro 13 · 18010 Granada",
+  "phones": [
+   "+34 660 688 593"
+  ],
+  "emails": [
+   "info@ladrondeagua.com"
+  ],
+  "sector": "apartamentos turísticos en un palacete del siglo XVI en el Albaicín (Granada)"
+ },
+ "rating": {
+  "value": 4.5,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/El+Ladr%C3%B3n+de+Agua+Palacete/@37.1779834,-3.5940639,17z/data=!4m9!3m8!1s0xd71fcb888852e75:0x9117cb990da54f13!5m2!4m1!1i2!8m2!3d37.1779834!4d-3.5940639!16s%2Fg%2F1trszc3y",
+  "date": "2026-10-29T11:02:43+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://www.ladrondeagua.com/es/book",
+  "note": "motor de reservas real de su web (/book), HTTP 200 comprobado el 30/10/2026 en es/en/fr/de."
+ },
+ "audit_original": {
+  "url": "https://www.ladrondeagua.com/",
+  "date": "2026-10-30T06:47:05+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": null,
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
