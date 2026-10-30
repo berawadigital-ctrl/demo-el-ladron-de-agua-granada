@@ -1,0 +1,375 @@
+{
+ "url": "http://127.0.0.1:38719/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué apartamentos tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay 5 tipos: Estudio Classic (2 personas, 25 m²), Estudio Premium (2 personas, 27 m²), Apartamento Deluxe (hasta 4, 40 m²), Apartamento Excl"
+    },
+    {
+     "q": "¿Tenéis algo para seis personas?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Para grupos o familias: el Apartamento Exclusive (63 m²) y la Penthouse Suite (65 m²) admiten hasta 6 personas, con dos dormitorios (cama de"
+    },
+    {
+     "q": "¿Cuál tiene vistas a la Alhambra?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Con vistas a la Alhambra: el Estudio Premium y la Penthouse Suite (que además mira al Valle del Darro y Plaza Nueva). El Deluxe da a la Carr"
+    },
+    {
+     "q": "¿A qué hora es el check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "El check-in es a partir de las 16:00 y el check-out antes de las 12:00. El check-in es automático las 24 horas y hay atención telefónica y p"
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "No tienen parking propio. El Albaicín tiene el acceso en coche restringido, así que recomiendan dejar el coche en un parking público (por ej"
+    },
+    {
+     "q": "¿Puedo cancelar?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Con la tarifa flexible, la cancelación es gratis hasta 5 días antes del check-in; dentro de esos 5 días o si no te presentas, no es reembols"
+    },
+    {
+     "q": "¿Tenéis cuna para el bebé?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "La cuna y la trona para bebés son gratuitas, bajo petición. En estancias de más de dos noches se incluye limpieza y cambio de lencería y toa"
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Hay WiFi gratis, ascensor, Smart TV, calefacción y aire acondicionado, servicio de lavandería y secadora, consigna para maletas y bicicleta,"
+    },
+    {
+     "q": "¿Dónde está?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Está en Carrera del Darro 13, 18010 Granada, en el corazón del Albaicín y a los pies de la Alhambra. Desde allí todo es accesible a pie."
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar o escribir por WhatsApp al +34 660 688 593 o enviar un correo a i"
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar o escribir por WhatsApp al +34 660 688 593 o enviar un correo a i"
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 660 688 593 · info@ladrondeagua.com."
+    },
+    {
+     "q": "¿Tenéis piscina?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 660 688 593 · info@ladrondeagua.com."
+    }
+   ],
+   "chips": [
+    "¿Qué apartamentos tenéis?",
+    "¿Hay parking?",
+    "¿A qué hora es el check-in?",
+    "¿Puedo cancelar?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "room4_n"
+   ],
+   "chat": [
+    {
+     "q": "Which apartments do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are 5 types: Classic Studio (2 people, 25 m²), Premium Studio (2 people, 27 m²), Deluxe Apartment (up to 4, 40 m²), Exclusive Apartmen"
+    },
+    {
+     "q": "Do you have anything for six people?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "For groups or families: the Exclusive Apartment (63 m²) and the Penthouse Suite (65 m²) sleep up to 6, with two bedrooms (a 180 x 200 cm bed"
+    },
+    {
+     "q": "Which one has Alhambra views?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "With Alhambra views: the Premium Studio and the Penthouse Suite (which also overlooks the Darro valley and Plaza Nueva). The Deluxe faces th"
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in is from 16:00 and check-out before 12:00. Check-in is automatic 24 hours a day, with phone and WhatsApp support 24/7."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "There is no private car park. Car access to the Albaicín is restricted, so they recommend leaving the car in a public car park (for example "
+    },
+    {
+     "q": "Can I cancel?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "With the flexible rate, cancellation is free up to 5 days before check-in; within those 5 days or for no-shows it is non-refundable. There i"
+    },
+    {
+     "q": "Do you have a cot for the baby?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "A cot and a high chair are free on request. Stays of more than two nights include cleaning and a change of linen and towels, from 9:00 to 13"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "There is free WiFi, a lift, Smart TV, heating and air conditioning, a washer and dryer service, luggage and bicycle storage, tourist informa"
+    },
+    {
+     "q": "Where is it?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It is at Carrera del Darro 13, 18010 Granada, in the heart of the Albaicín at the foot of the Alhambra. Everything is within walking distanc"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book on their website's booking engine (Book button), call or WhatsApp +34 660 688 593 or email info@ladrondeagua.com. This assistan"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "You can book on their website's booking engine (Book button), call or WhatsApp +34 660 688 593 or email info@ladrondeagua.com. This assistan"
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 660 688 593 · info@ladrondeagua.com."
+    },
+    {
+     "q": "Do you have a swimming pool?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 660 688 593 · info@ladrondeagua.com."
+    }
+   ],
+   "chips": [
+    "Which apartments do you have?",
+    "Is there parking?",
+    "What time is check-in?",
+    "Can I cancel?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "room4_n"
+   ],
+   "chat": [
+    {
+     "q": "Quels appartements avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a 5 types : Studio Classic (2 personnes, 25 m²), Studio Premium (2 personnes, 27 m²), Appartement Deluxe (jusqu'à 4, 40 m²), Appartemen"
+    },
+    {
+     "q": "Avez-vous quelque chose pour six personnes ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Pour les groupes ou familles : l'Appartement Exclusive (63 m²) et la Penthouse Suite (65 m²) accueillent jusqu'à 6 personnes, avec deux cham"
+    },
+    {
+     "q": "Lequel a vue sur l'Alhambra ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Avec vue sur l'Alhambra : le Studio Premium et la Penthouse Suite (qui donne aussi sur la vallée du Darro et la Plaza Nueva). Le Deluxe donn"
+    },
+    {
+     "q": "À quelle heure est le check-in ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Le check-in se fait à partir de 16h00 et le check-out avant 12h00. Check-in automatique 24 h/24, avec assistance par téléphone et WhatsApp 2"
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Pas de parking privé. L'accès en voiture à l'Albaicín est restreint : ils conseillent de laisser la voiture dans un parking public (par exem"
+    },
+    {
+     "q": "Puis-je annuler ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Avec le tarif flexible, l'annulation est gratuite jusqu'à 5 jours avant le check-in ; dans les 5 jours ou en cas de non-présentation, elle n"
+    },
+    {
+     "q": "Avez-vous un lit bébé ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Lit bébé et chaise haute gratuits sur demande. Pour les séjours de plus de deux nuits, ménage et changement de linge et de serviettes inclus"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "WiFi gratuit, ascenseur, Smart TV, chauffage et climatisation, lave-linge et sèche-linge, bagagerie et local à vélos, informations touristiq"
+    },
+    {
+     "q": "Où est-ce ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "C'est Carrera del Darro 13, 18010 Grenade, au cœur de l'Albaicín, au pied de l'Alhambra. Tout est accessible à pied."
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler ou écrire sur WhatsApp au +34 660 688 593 ou envoy"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler ou écrire sur WhatsApp au +34 660 688 593 ou envoy"
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 660 688 593 · info@ladrondeagua.com."
+    },
+    {
+     "q": "Avez-vous une piscine ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 660 688 593 · info@ladrondeagua.com."
+    }
+   ],
+   "chips": [
+    "Quels appartements avez-vous ?",
+    "Y a-t-il un parking ?",
+    "À quelle heure est le check-in ?",
+    "Puis-je annuler ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k",
+    "stat2",
+    "room4_n"
+   ],
+   "chat": [
+    {
+     "q": "Welche Apartments gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt 5 Typen: Studio Classic (2 Personen, 25 m²), Studio Premium (2 Personen, 27 m²), Apartment Deluxe (bis 4, 40 m²), Apartment Exclusiv"
+    },
+    {
+     "q": "Haben Sie etwas für sechs Personen?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Für Gruppen oder Familien: Apartment Exclusive (63 m²) und Penthouse Suite (65 m²) bieten Platz für bis zu 6 Personen, mit zwei Schlafzimmer"
+    },
+    {
+     "q": "Welches hat Blick auf die Alhambra?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Mit Alhambra-Blick: Studio Premium und Penthouse Suite (zusätzlich mit Blick auf das Darro-Tal und die Plaza Nueva). Das Deluxe blickt auf d"
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Check-in ab 16:00 Uhr, Check-out bis 12:00 Uhr. Der Check-in ist rund um die Uhr automatisch möglich, Betreuung per Telefon und WhatsApp 24/"
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Es gibt keinen eigenen Parkplatz. Die Zufahrt zum Albaicín ist beschränkt; empfohlen wird, das Auto in einem öffentlichen Parkhaus abzustell"
+    },
+    {
+     "q": "Kann ich stornieren?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Mit dem flexiblen Tarif ist die Stornierung bis 5 Tage vor dem Check-in kostenlos; innerhalb dieser 5 Tage oder bei Nichterscheinen nicht er"
+    },
+    {
+     "q": "Gibt es ein Kinderbett für das Baby?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Kinderbett und Hochstuhl sind auf Anfrage kostenlos. Bei Aufenthalten über zwei Nächte sind Reinigung sowie Wechsel von Bettwäsche und Handt"
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Es gibt kostenloses WLAN, Aufzug, Smart-TV, Heizung und Klimaanlage, Waschmaschine und Trockner, Gepäck- und Fahrradaufbewahrung, touristisc"
+    },
+    {
+     "q": "Wo liegt es?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Die Adresse ist Carrera del Darro 13, 18010 Granada, im Herzen des Albaicín zu Füßen der Alhambra. Alles ist zu Fuß erreichbar."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 660 688 593 anrufen oder per WhatsApp schreiben ode"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 660 688 593 anrufen oder per WhatsApp schreiben ode"
+    },
+    {
+     "q": "Was kostet eine Übernachtung?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 660 688 593 · info@ladrondeagua.com."
+    },
+    {
+     "q": "Haben Sie ein Schwimmbad?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 660 688 593 · info@ladrondeagua.com."
+    }
+   ],
+   "chips": [
+    "Welche Apartments gibt es?",
+    "Gibt es einen Parkplatz?",
+    "Wann ist der Check-in?",
+    "Kann ich stornieren?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

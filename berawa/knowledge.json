@@ -1,0 +1,628 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-el-ladron-de-agua-granada",
+ "source_site": "https://www.ladrondeagua.com/",
+ "source_read_at": "2026-10-30T06:54:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "apartamentos",
+   "keys": {
+    "es": [
+     "apartamento",
+     "apartamentos",
+     "estudio",
+     "habitacion",
+     "alojamiento",
+     "tipos"
+    ],
+    "en": [
+     "apartment",
+     "apartments",
+     "studio",
+     "room",
+     "accommodation",
+     "types"
+    ],
+    "fr": [
+     "appartement",
+     "appartements",
+     "studio",
+     "chambre",
+     "hebergement"
+    ],
+    "de": [
+     "apartment",
+     "apartments",
+     "wohnung",
+     "studio",
+     "zimmer",
+     "unterkunft"
+    ]
+   },
+   "a": {
+    "es": "Hay 5 tipos: Estudio Classic (2 personas, 25 m²), Estudio Premium (2 personas, 27 m²), Apartamento Deluxe (hasta 4, 40 m²), Apartamento Exclusive (hasta 6, 63 m²) y Penthouse Suite (hasta 6, 65 m²). Todos con cocina equipada, WiFi, aire acondicionado y calefacción.",
+    "en": "There are 5 types: Classic Studio (2 people, 25 m²), Premium Studio (2 people, 27 m²), Deluxe Apartment (up to 4, 40 m²), Exclusive Apartment (up to 6, 63 m²) and Penthouse Suite (up to 6, 65 m²). All with an equipped kitchen, WiFi, air conditioning and heating.",
+    "fr": "Il y a 5 types : Studio Classic (2 personnes, 25 m²), Studio Premium (2 personnes, 27 m²), Appartement Deluxe (jusqu'à 4, 40 m²), Appartement Exclusive (jusqu'à 6, 63 m²) et Penthouse Suite (jusqu'à 6, 65 m²). Tous avec cuisine équipée, WiFi, climatisation et chauffage.",
+    "de": "Es gibt 5 Typen: Studio Classic (2 Personen, 25 m²), Studio Premium (2 Personen, 27 m²), Apartment Deluxe (bis 4, 40 m²), Apartment Exclusive (bis 6, 63 m²) und Penthouse Suite (bis 6, 65 m²). Alle mit Küche, WLAN, Klimaanlage und Heizung."
+   },
+   "sources": [
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12113/estudio-classic",
+     "quote": "Estudio con encanto en el Albaycín 2 25 m²"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12112/estudio-premium",
+     "quote": "Estudio Premium con vistas a la Alhambra - Romanticismo en el Albaicin 2 27 m²"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12108/apartamento-deluxe",
+     "quote": "Apartamento Deluxe 4 40 m²"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12107/apartamento-exclusive",
+     "quote": "Apartamento Exclusive 6 63 m²"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12106/penthouse-suite",
+     "quote": "Penthouse Suite - La Joya del Palacete 6 65 m²"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12113/estudio-classic",
+     "quote": "WiFi, aire acondicionado, calefacción, TV en el salón, caja fuerte"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "grupos y familias",
+   "keys": {
+    "es": [
+     "seis",
+     "6 personas",
+     "familia",
+     "grupo",
+     "dos dormitorios",
+     "cuatro",
+     "4 personas"
+    ],
+    "en": [
+     "six",
+     "6 people",
+     "family",
+     "group",
+     "two bedrooms",
+     "four",
+     "4 people"
+    ],
+    "fr": [
+     "six",
+     "6 personnes",
+     "famille",
+     "groupe",
+     "deux chambres",
+     "quatre",
+     "4 personnes"
+    ],
+    "de": [
+     "sechs",
+     "6 personen",
+     "familie",
+     "gruppe",
+     "zwei schlafzimmer",
+     "vier",
+     "4 personen"
+    ]
+   },
+   "a": {
+    "es": "Para grupos o familias: el Apartamento Exclusive (63 m²) y la Penthouse Suite (65 m²) admiten hasta 6 personas, con dos dormitorios (cama de 180 x 200 cm y dos camas de 90 x 200 cm) y sofá cama en el salón. El Deluxe admite hasta 4.",
+    "en": "For groups or families: the Exclusive Apartment (63 m²) and the Penthouse Suite (65 m²) sleep up to 6, with two bedrooms (a 180 x 200 cm bed and two 90 x 200 cm beds) and a sofa bed in the lounge. The Deluxe sleeps up to 4.",
+    "fr": "Pour les groupes ou familles : l'Appartement Exclusive (63 m²) et la Penthouse Suite (65 m²) accueillent jusqu'à 6 personnes, avec deux chambres (lit de 180 x 200 cm et deux lits de 90 x 200 cm) et un canapé-lit au salon. Le Deluxe accueille jusqu'à 4 personnes.",
+    "de": "Für Gruppen oder Familien: Apartment Exclusive (63 m²) und Penthouse Suite (65 m²) bieten Platz für bis zu 6 Personen, mit zwei Schlafzimmern (Bett 180 x 200 cm und zwei Betten 90 x 200 cm) und Schlafsofa im Wohnzimmer. Das Deluxe für bis zu 4."
+   },
+   "sources": [
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12106/penthouse-suite",
+     "quote": "uno con una cama doble de 180 x 200 cm y baño en suite, y otro con dos camas individuales de 90 x 200 cm. Además, el salón tiene un sofá cama de 160 x 190 cm"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12107/apartamento-exclusive",
+     "quote": "Apartamento Exclusive 6 63 m²"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12106/penthouse-suite",
+     "quote": "Penthouse Suite - La Joya del Palacete 6 65 m²"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12108/apartamento-deluxe",
+     "quote": "Apartamento Deluxe 4 40 m²"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "vistas",
+   "keys": {
+    "es": [
+     "vistas",
+     "alhambra",
+     "vista",
+     "darro",
+     "torre de la vela"
+    ],
+    "en": [
+     "view",
+     "views",
+     "alhambra",
+     "darro"
+    ],
+    "fr": [
+     "vue",
+     "vues",
+     "alhambra",
+     "darro"
+    ],
+    "de": [
+     "blick",
+     "aussicht",
+     "alhambra",
+     "darro"
+    ]
+   },
+   "a": {
+    "es": "Con vistas a la Alhambra: el Estudio Premium y la Penthouse Suite (que además mira al Valle del Darro y Plaza Nueva). El Deluxe da a la Carrera del Darro y el Exclusive al río Darro y la Torre de la Vela. El Estudio Classic no tiene vistas a la Alhambra.",
+    "en": "With Alhambra views: the Premium Studio and the Penthouse Suite (which also overlooks the Darro valley and Plaza Nueva). The Deluxe faces the Carrera del Darro and the Exclusive the river Darro and the Torre de la Vela. The Classic Studio has no Alhambra view.",
+    "fr": "Avec vue sur l'Alhambra : le Studio Premium et la Penthouse Suite (qui donne aussi sur la vallée du Darro et la Plaza Nueva). Le Deluxe donne sur la Carrera del Darro et l'Exclusive sur le Darro et la Torre de la Vela. Le Studio Classic n'a pas vue sur l'Alhambra.",
+    "de": "Mit Alhambra-Blick: Studio Premium und Penthouse Suite (zusätzlich mit Blick auf das Darro-Tal und die Plaza Nueva). Das Deluxe blickt auf die Carrera del Darro, das Exclusive auf den Darro und die Torre de la Vela. Das Studio Classic hat keinen Alhambra-Blick."
+   },
+   "sources": [
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12112/estudio-premium",
+     "quote": "con unas vistas espectaculares a la Alhambra"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12106/penthouse-suite",
+     "quote": "disfruta de vistas privilegiadas de la Alhambra, el Valle del Darro y Plaza Nueva"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12108/apartamento-deluxe",
+     "quote": "con impresionantes vistas a la Carrera del Darro"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12107/apartamento-exclusive",
+     "quote": "Con magníficas vistas al río Darro y la Torre de la Vela"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/room/12113/estudio-classic",
+     "quote": "no cuenta con vistas a la Alhambra"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "check-in",
+   "keys": {
+    "es": [
+     "check-in",
+     "check in",
+     "checkin",
+     "check-out",
+     "checkout",
+     "llegada",
+     "salida",
+     "entrada",
+     "hora"
+    ],
+    "en": [
+     "check-in",
+     "check in",
+     "checkin",
+     "check-out",
+     "checkout",
+     "arrival",
+     "departure",
+     "what time"
+    ],
+    "fr": [
+     "check-in",
+     "check in",
+     "arrivee",
+     "depart",
+     "check-out",
+     "quelle heure"
+    ],
+    "de": [
+     "check-in",
+     "check in",
+     "checkin",
+     "check-out",
+     "checkout",
+     "ankunft",
+     "abreise",
+     "uhrzeit",
+     "wann ist"
+    ]
+   },
+   "a": {
+    "es": "El check-in es a partir de las 16:00 y el check-out antes de las 12:00. El check-in es automático las 24 horas y hay atención telefónica y por WhatsApp 24 h, los 7 días.",
+    "en": "Check-in is from 16:00 and check-out before 12:00. Check-in is automatic 24 hours a day, with phone and WhatsApp support 24/7.",
+    "fr": "Le check-in se fait à partir de 16h00 et le check-out avant 12h00. Check-in automatique 24 h/24, avec assistance par téléphone et WhatsApp 24 h/24, 7 j/7.",
+    "de": "Check-in ab 16:00 Uhr, Check-out bis 12:00 Uhr. Der Check-in ist rund um die Uhr automatisch möglich, Betreuung per Telefon und WhatsApp 24/7."
+   },
+   "sources": [
+    {
+     "url": "https://www.ladrondeagua.com/es/8897/servicios/-",
+     "quote": "Check in automático 24 horas Atención telefónica/WhatsApp 24h/7 Check in: A partir de las 16:00h - Check out: Antes de las 12:00h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "coche",
+     "garaje",
+     "vehiculo",
+     "llegar en coche"
+    ],
+    "en": [
+     "parking",
+     "car park",
+     "park",
+     " car",
+     "garage",
+     "vehicle",
+     "drive"
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "voiture",
+     "garage",
+     "vehicule"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "auto",
+     "garage",
+     "fahrzeug"
+    ]
+   },
+   "a": {
+    "es": "No tienen parking propio. El Albaicín tiene el acceso en coche restringido, así que recomiendan dejar el coche en un parking público (por ejemplo, Plaza Puerta Real, Calle Acera del Darro 40) y llegar a pie o en taxi.",
+    "en": "There is no private car park. Car access to the Albaicín is restricted, so they recommend leaving the car in a public car park (for example Plaza Puerta Real, Calle Acera del Darro 40) and arriving on foot or by taxi.",
+    "fr": "Pas de parking privé. L'accès en voiture à l'Albaicín est restreint : ils conseillent de laisser la voiture dans un parking public (par exemple Plaza Puerta Real, Calle Acera del Darro 40) et d'arriver à pied ou en taxi.",
+    "de": "Es gibt keinen eigenen Parkplatz. Die Zufahrt zum Albaicín ist beschränkt; empfohlen wird, das Auto in einem öffentlichen Parkhaus abzustellen (z. B. Plaza Puerta Real, Calle Acera del Darro 40) und zu Fuß oder mit dem Taxi zu kommen."
+   },
+   "sources": [
+    {
+     "url": "https://www.ladrondeagua.com/es/location",
+     "quote": "El Ladrón de Agua no dispone de parking propio"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/location",
+     "quote": "Dejar el coche antes de llegar al Palacete en alguno de los parkings que te recomendamos y llegar a pie o en taxi."
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/location",
+     "quote": "PLAZA PUERTA REAL Calle Acera del Darro, no 40"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/location",
+     "quote": "su acceso en coche esta restringido y limitado a vehículos autorizados como Taxis."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "cancelacion",
+   "keys": {
+    "es": [
+     "cancel",
+     "anular",
+     "devolucion",
+     "reembols"
+    ],
+    "en": [
+     "cancel",
+     "refund"
+    ],
+    "fr": [
+     "annul",
+     "rembours"
+    ],
+    "de": [
+     "storn",
+     "erstattung"
+    ]
+   },
+   "a": {
+    "es": "Con la tarifa flexible, la cancelación es gratis hasta 5 días antes del check-in; dentro de esos 5 días o si no te presentas, no es reembolsable. También hay una tarifa no reembolsable. El pago se hace mediante un enlace 14 días antes de la llegada.",
+    "en": "With the flexible rate, cancellation is free up to 5 days before check-in; within those 5 days or for no-shows it is non-refundable. There is also a non-refundable rate. Payment is made via a link sent 14 days before arrival.",
+    "fr": "Avec le tarif flexible, l'annulation est gratuite jusqu'à 5 jours avant le check-in ; dans les 5 jours ou en cas de non-présentation, elle n'est pas remboursable. Il existe aussi un tarif non remboursable. Le paiement se fait par un lien envoyé 14 jours avant l'arrivée.",
+    "de": "Mit dem flexiblen Tarif ist die Stornierung bis 5 Tage vor dem Check-in kostenlos; innerhalb dieser 5 Tage oder bei Nichterscheinen nicht erstattbar. Es gibt auch einen nicht erstattbaren Tarif. Bezahlt wird über einen Link, der 14 Tage vor Anreise kommt."
+   },
+   "sources": [
+    {
+     "url": "https://www.ladrondeagua.com/es/legal-cancellation",
+     "quote": "TARIFA FLEXIBLE · CANCELACIÓN GRATUITA (HASTA 5 DÍAS)"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/legal-cancellation",
+     "quote": "Gratis hasta 5 días antes del check-in. • Dentro de 5 días o NO-SHOW: no reembolsable."
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/legal-cancellation",
+     "quote": "TARIFA NO REEMBOLSABLE"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/legal-cancellation",
+     "quote": "Enviaremos un enlace de pago 14 días antes de la llegada"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "bebes y limpieza",
+   "keys": {
+    "es": [
+     "cuna",
+     "bebe",
+     "trona",
+     "niño",
+     "nino",
+     "limpieza",
+     "toallas"
+    ],
+    "en": [
+     " cot",
+     "crib",
+     "baby",
+     "high chair",
+     "child",
+     "cleaning",
+     "towels"
+    ],
+    "fr": [
+     "lit bebe",
+     "bebe",
+     "chaise haute",
+     "enfant",
+     "menage",
+     "serviettes"
+    ],
+    "de": [
+     "kinderbett",
+     "baby",
+     "hochstuhl",
+     "kind",
+     "reinigung",
+     "handtucher"
+    ]
+   },
+   "a": {
+    "es": "La cuna y la trona para bebés son gratuitas, bajo petición. En estancias de más de dos noches se incluye limpieza y cambio de lencería y toallas, de 9:00 a 13:00.",
+    "en": "A cot and a high chair are free on request. Stays of more than two nights include cleaning and a change of linen and towels, from 9:00 to 13:00.",
+    "fr": "Lit bébé et chaise haute gratuits sur demande. Pour les séjours de plus de deux nuits, ménage et changement de linge et de serviettes inclus, de 9h00 à 13h00.",
+    "de": "Kinderbett und Hochstuhl sind auf Anfrage kostenlos. Bei Aufenthalten über zwei Nächte sind Reinigung sowie Wechsel von Bettwäsche und Handtüchern inklusive, von 9:00 bis 13:00 Uhr."
+   },
+   "sources": [
+    {
+     "url": "https://www.ladrondeagua.com/es/8897/servicios/-",
+     "quote": "Cuna para bebes gratuita, bajo petición"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/8897/servicios/-",
+     "quote": "Trona gratuita para bebes, bajo petición"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/8897/servicios/-",
+     "quote": "Incluido servicio de limpieza, cambio de lencería y toallas para estancias superiores a dos noches en horario de 9:00 h a 13:00 h"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "servicios",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet",
+     "ascensor",
+     "lavadora",
+     "secadora",
+     "consigna",
+     "maleta",
+     "bicicleta",
+     "servicios",
+     "adaptado"
+    ],
+    "en": [
+     "wifi",
+     "internet",
+     "lift",
+     "elevator",
+     "washing",
+     "dryer",
+     "luggage",
+     "bicycle",
+     "services",
+     "accessible"
+    ],
+    "fr": [
+     "wifi",
+     "internet",
+     "ascenseur",
+     "lave-linge",
+     "seche-linge",
+     "bagage",
+     "velo",
+     "services",
+     "adapte"
+    ],
+    "de": [
+     "wlan",
+     "internet",
+     "aufzug",
+     "waschmaschine",
+     "trockner",
+     "gepack",
+     "fahrrad",
+     "service",
+     "barrierefrei"
+    ]
+   },
+   "a": {
+    "es": "Hay WiFi gratis, ascensor, Smart TV, calefacción y aire acondicionado, servicio de lavandería y secadora, consigna para maletas y bicicleta, información turística y un apartamento adaptado.",
+    "en": "There is free WiFi, a lift, Smart TV, heating and air conditioning, a washer and dryer service, luggage and bicycle storage, tourist information and an adapted apartment.",
+    "fr": "WiFi gratuit, ascenseur, Smart TV, chauffage et climatisation, lave-linge et sèche-linge, bagagerie et local à vélos, informations touristiques et un appartement adapté.",
+    "de": "Es gibt kostenloses WLAN, Aufzug, Smart-TV, Heizung und Klimaanlage, Waschmaschine und Trockner, Gepäck- und Fahrradaufbewahrung, touristische Informationen und ein barrierefreies Apartment."
+   },
+   "sources": [
+    {
+     "url": "https://www.ladrondeagua.com/es/8897/servicios/-",
+     "quote": "Wifi gratis Ascensor Calefacción/Aire acondicionado Smart Tv Apartamento adaptado Servicio de lavandería y secadora"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/8897/servicios/-",
+     "quote": "Información turística, cultural y ocio Consigna para maletas y bicicleta"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K09",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde",
+     "direccion",
+     "ubicacion",
+     "mapa",
+     "situad",
+     "albaicin",
+     "albayzin",
+     "que ver",
+     "cerca"
+    ],
+    "en": [
+     "where",
+     "address",
+     "location",
+     "map",
+     "located",
+     "albaicin",
+     "what to see",
+     "nearby"
+    ],
+    "fr": [
+     " ou ",
+     "adresse",
+     "situe",
+     "carte",
+     "albaicin",
+     "a voir",
+     "proche"
+    ],
+    "de": [
+     " wo ",
+     "adresse",
+     "lage",
+     "karte",
+     "liegt",
+     "albaicin",
+     "sehenswurdig",
+     "in der nahe"
+    ]
+   },
+   "a": {
+    "es": "Está en Carrera del Darro 13, 18010 Granada, en el corazón del Albaicín y a los pies de la Alhambra. Desde allí todo es accesible a pie.",
+    "en": "It is at Carrera del Darro 13, 18010 Granada, in the heart of the Albaicín at the foot of the Alhambra. Everything is within walking distance.",
+    "fr": "C'est Carrera del Darro 13, 18010 Grenade, au cœur de l'Albaicín, au pied de l'Alhambra. Tout est accessible à pied.",
+    "de": "Die Adresse ist Carrera del Darro 13, 18010 Granada, im Herzen des Albaicín zu Füßen der Alhambra. Alles ist zu Fuß erreichbar."
+   },
+   "sources": [
+    {
+     "url": "https://www.ladrondeagua.com/",
+     "quote": "Carrera del Darro 13 18010 Granada (Granada) España"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/location",
+     "quote": "Nos encontramos en el corazón del Albayzín a los pies de la Alhambra ."
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/location",
+     "quote": "Ubicación privilegiada, todo es accesible a pie"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "reservar",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "fecha"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab",
+     "confirm",
+     "free room"
+    ],
+    "fr": [
+     "reserv",
+     "disponib",
+     "confirm",
+     "libre",
+     "dates"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar",
+     "bestatig",
+     "termin"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar en el motor de reservas de su web (botón Reservar), llamar o escribir por WhatsApp al +34 660 688 593 o enviar un correo a info@ladrondeagua.com. Este asistente no confirma disponibilidad ni reservas.",
+    "en": "You can book on their website's booking engine (Book button), call or WhatsApp +34 660 688 593 or email info@ladrondeagua.com. This assistant does not confirm availability or bookings.",
+    "fr": "Vous pouvez réserver sur le moteur de réservation de leur site (bouton Réserver), appeler ou écrire sur WhatsApp au +34 660 688 593 ou envoyer un e-mail à info@ladrondeagua.com. Cet assistant ne confirme ni disponibilité ni réservation.",
+    "de": "Sie können über die Buchungsmaschine der Website buchen (Schaltfläche Buchen), unter +34 660 688 593 anrufen oder per WhatsApp schreiben oder eine E-Mail an info@ladrondeagua.com senden. Dieser Assistent bestätigt weder Verfügbarkeit noch Buchungen."
+   },
+   "sources": [
+    {
+     "url": "https://www.ladrondeagua.com/",
+     "quote": "34660688593 34660688593 34660688593"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/",
+     "quote": "info@ladrondeagua.com info@ladrondeagua.com"
+    },
+    {
+     "url": "https://www.ladrondeagua.com/es/8897/servicios/-",
+     "quote": "Atención telefónica/WhatsApp 24h/7"
+    }
+   ],
+   "cta": true
+  }
+ ]
+}

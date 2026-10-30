@@ -1,0 +1,71 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.ladrondeagua.com/",
+ "read_at": "2026-10-30T06:54:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.ladrondeagua.com/",
+   "sha256": "75960adcc7510e579bd846f124d69c41393b25fa654096347dee128670d51182",
+   "chars": 4723
+  },
+  {
+   "url": "https://www.ladrondeagua.com/es/8897/servicios/-",
+   "sha256": "12b0f5ff30bc1879db091f7fb808f5ff8c3dc560a6a71bf2dcea873bbb25196d",
+   "chars": 2782
+  },
+  {
+   "url": "https://www.ladrondeagua.com/es/legal-cancellation",
+   "sha256": "99688548d4395d7996994a8fafe18145295d1d685a87e6cee7c87de5f0e67d78",
+   "chars": 5614
+  },
+  {
+   "url": "https://www.ladrondeagua.com/es/location",
+   "sha256": "c6e0993f4c140a8dec7bb5441e2521dcebba615a4e77a95ec5a1410416a20f8b",
+   "chars": 4474
+  },
+  {
+   "url": "https://www.ladrondeagua.com/es/room/12106/penthouse-suite",
+   "sha256": "95761a4b5614d6cc5cfe94faa12772f9f6d5b23c7130346df47ead7d9ed44585",
+   "chars": 3954
+  },
+  {
+   "url": "https://www.ladrondeagua.com/es/room/12107/apartamento-exclusive",
+   "sha256": "acdb993cc61369333e1455a02f527ec9d554cbee6472f65ac554ddd6628b46b6",
+   "chars": 3895
+  },
+  {
+   "url": "https://www.ladrondeagua.com/es/room/12108/apartamento-deluxe",
+   "sha256": "c36b36483ad3091d8b5f3630f507c863a1284b7e6f9f7708b78ac2973f52d743",
+   "chars": 3298
+  },
+  {
+   "url": "https://www.ladrondeagua.com/es/room/12112/estudio-premium",
+   "sha256": "266be27648bab90d97f2ac2c173c811f588661d1d76c01fa28d504ff7f39c034",
+   "chars": 3373
+  },
+  {
+   "url": "https://www.ladrondeagua.com/es/room/12113/estudio-classic",
+   "sha256": "e8c6316dd60caa385083b3dd4e9fac40b6716a6466496ddf95fd0f463fe422e8",
+   "chars": 2877
+  }
+ ],
+ "other_pages_read": [
+  "https://www.ladrondeagua.com",
+  "https://www.ladrondeagua.com/en",
+  "https://www.ladrondeagua.com/en/8900/el-palacete/-",
+  "https://www.ladrondeagua.com/en/room/12106/penthouse-suite",
+  "https://www.ladrondeagua.com/en/room/12107/exclusive-apartment",
+  "https://www.ladrondeagua.com/en/room/12108/deluxe-apartment",
+  "https://www.ladrondeagua.com/en/room/12112/premium-studio",
+  "https://www.ladrondeagua.com/en/room/12113/classic-studio",
+  "https://www.ladrondeagua.com/en/rooms",
+  "https://www.ladrondeagua.com/es/8900/el-palacete/-",
+  "https://www.ladrondeagua.com/es/environment",
+  "https://www.ladrondeagua.com/es/legal-accessibility",
+  "https://www.ladrondeagua.com/es/legal-cookies",
+  "https://www.ladrondeagua.com/es/legal-politic",
+  "https://www.ladrondeagua.com/es/legal-privacy",
+  "https://www.ladrondeagua.com/es/rooms"
+ ]
+}
